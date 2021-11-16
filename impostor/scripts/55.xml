@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Among Us" />
+<Content type="html"><![CDATA[
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Among Us SP</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+<meta name="generator" content="Construct 3">
+
+	<link rel="manifest" href="appmanifest.json">
+
+
+<link rel="stylesheet" href="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/style.css" type="text/css">
+
+</head>
+<body>
+<div id="fb-root"></div>
+
+	<noscript>
+		<div id="notSupportedWrap">
+			<h2 id="notSupportedTitle">This content requires JavaScript</h2>
+			<p class="notSupportedMessage">JavaScript appears to be disabled. Please enable it to view this content.</p>
+		</div>
+	</noscript>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/supportcheck.js"></script>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/offlineclient.js" type="module"></script>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/main55.js" type="module"></script>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/register-sw.js" type="module"></script>
+</body>
+</html>
+
+]]></Content>
+</Module>

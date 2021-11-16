@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Among Us" />
+<Content type="html"><![CDATA[
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Impostor - Among Us inspired fan game</title>
+<meta name="description" content="Fan game inspired by Among Us. Play as impostor and be the only survivor."/>
+<meta name="keywords" content="impostor among us play online"/>
+<meta property="og:title" content="Impostor">
+<meta property="og:image" content="https://impostor.fan/share.png">
+<meta property="og:description" content="Play Impostor - Among Us inspired fan game and be the only survivor on the ship!">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="favicon.png" />
+<link rel="stylesheet" href="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/style.css?v3">
+<link rel="stylesheet" href="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/style-menu.css?v8">
+
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<style>
+#gddisplayad {
+	position: absolute;
+	bottom: 24px;
+	left: 50%;
+	margin-left: -168px;
+	width: 336px;
+	height: 280px;
+	padding: 0;
+	display: none;
+}
+</style>
+
+</head>
+<body onresize="onBodyResize();">
+
+<div id="leaderboard"></div>
+
+<div id="shareBlock">
+				<a href="#invite" class="shareBtn" onclick="ShowInvite();">INVITE FRIENDS</a>	
+</div>
+<script type="text/javascript">
+	console.log('fan v176');
+</script>
+	<div id="gddisplayad"></div>
+        <div id="about">
+            <div class="modal_box">
+                <h1>Impostor</h1>
+                <div class="modal_scroll">
+<p>Impostor is a fan game inspired by Among Us. A spaceship is travelling in endless space, and its crew is trying to survive. There is an impostor among them and they need to stay on guard. They need to be aware of empty rooms, and be ready for an attack when left alone with someone else, what if that someone is the impostor. 
+</p><p>The Impostor wants to kill everyone and will stop at nothing, even if it means sabotaging the ship. He is cunning and sneaky. He can hide in dark corners and wait for his victim, or suddenly jump out of a ventilation shaft and attack from behind. 
+</p><p>It is difficult to identify him among the crew members, unless he makes a mistake. You wouldn't do that, would you, Impostor?
+</p>
+<h2>Impostor controls</h2>
+<p>Control the movement with WASD or arrow keys. Perform actions by clicking the buttons at the bottom right corner of the screen.
+</p>
+                </div>
+                <p>
+                    <a href="#aboutclose" onclick="HideAbout();">
+                        Close window
+                    </a>
+                </p>
+            </div>
+        </div>
+		<script type="text/javascript">
+		window.player_id = 486799922;
+		window.player_name = 'Player';
+		function ShowInvite() {
+				var ab = document.getElementById('shareInvite');
+				if (ab.style.display === 'block') {
+					HideInvite();
+				} else {
+					ab.style.display = 'block';
+				}
+			}
+
+			function HideInvite() {
+				var ab = document.getElementById('shareInvite');
+				ab.style.display = 'none';
+			}
+			
+			function inviteCopyLink() {
+  var copyText = document.getElementById("shareLinkInput");
+  copyText.select();
+  document.execCommand("copy");
+}
+				</script>
+		<div id="shareInvite" style="display: none;">
+				<div class="shareInvite-text">
+					<span class="inviteTitle">Invite Friends</span>
+					<p>Share the link with more friends!</p>
+<input type="text" value="https://impostor.fan/?go-7305" id="shareLinkInput">
+<button onclick="inviteCopyLink();HideInvite();">Copy</button>
+					<p>
+						<a href="#invite" onclick="HideInvite();">
+							Close Window
+						</a>
+					</p>
+				</div>
+			</div>
+        <div id="bottom">
+            <span onclick="ShowAbout()">About game</span>          
+        </div>
+
+<div id="fb-root"></div>
+
+	<noscript>
+		<div id="notSupportedWrap">
+			<h2 id="notSupportedTitle">This content requires JavaScript</h2>
+			<p class="notSupportedMessage">JavaScript appears to be disabled. Please enable it to view this content.</p>
+		</div>
+	</noscript>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/supportcheck.js"></script>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/offlineclient.js" type="module"></script>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/mainv3.js" type="module"></script>
+	<script src="https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirticxra/impostor/scripts/register-sw.js" type="module"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(71169778, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/71169778" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+
+]]></Content>
+</Module>
