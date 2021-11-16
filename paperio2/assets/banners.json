@@ -1,0 +1,17 @@
+{
+    "interval": 5000,
+    "banners": [
+        {
+            "image": "https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirtiori/paperio/assets/banners/hole200.png",
+            "href": "https://hole-io.com/"
+        },
+        {
+            "image": "https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirtiori/paperio/assets/banners/aquapark200.jpg",
+            "href": "https://aquapark.io/"
+        },
+        {
+            "image": "https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/asatvirtiori/paperio/assets/banners/findcat.png",
+            "href": "https://findcat.io/"
+        }
+    ]
+}
