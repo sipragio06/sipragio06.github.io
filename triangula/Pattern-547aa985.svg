@@ -1,0 +1,8 @@
+  <svg width='40px' height='40px' viewBox='0 0 40 40' xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+    <g stroke="rgba(255,255,255,0.1)" strokeWidth="1">
+      <line x1="0" y1="0" x2="40" y2="40"/>
+      <line x1="40" y1="0" x2="0" y2="40" />
+      <line x1="0" y1="0" x2="40" y2="0" />
+      <line x1="0" y1="0" x2="0" y2="40" />
+    </g>
+  </svg>
