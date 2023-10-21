@@ -1,0 +1,27 @@
+{
+  "resources": [
+    "audio-sprite-music.mp3"
+  ],
+  "spritemap": {
+    "jump": {
+      "start": 0,
+      "end": 0.2884126984126984,
+      "loop": true
+    },
+    "match_music": {
+      "start": 2,
+      "end": 16.86473922902494,
+      "loop": true
+    },
+    "noggins_menu": {
+      "start": 18,
+      "end": 31.297392290249434,
+      "loop": true
+    },
+    "tension_golden_goal": {
+      "start": 33,
+      "end": 36.50147392290249,
+      "loop": true
+    }
+  }
+}

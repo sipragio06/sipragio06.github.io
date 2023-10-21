@@ -1,0 +1,182 @@
+[
+    {
+        "id":0,
+        "name":"Argentina",
+        "captain":"Messi",
+        "race" : "white"
+    },
+    {
+        "id":1,
+        "name":"Austria",
+        "captain":"Janko",
+        "race" : "white"
+    },
+    {
+        "id":2,
+        "name":"Belgium",
+        "captain":"de Bruyne",
+        "race" : "crab" 
+    },
+    {
+        "id":3,
+        "name":"Brazil",
+        "captain":"Neymar",
+        "race" : "cream" 
+    },
+    {
+        "id":4,
+        "name":"Chile",
+        "captain":"Sanchez",
+        "race" : "latin" 
+    },
+    {
+        "id":5,
+        "name":"Colombia",
+        "captain":"James",
+        "race" : "white" 
+    },
+    {
+        "id":6,
+        "name":"Costa Rica",
+        "captain":"Gamboa",
+        "race" : "latin" 
+    },
+    {
+        "id":7,
+        "name":"Croatia",
+        "captain":"Perisic",
+        "race" : "white" 
+    },
+    {
+        "id":8,
+        "name":"Ecuador",
+        "captain":"Caicedo",
+        "race" : "black" 
+    },
+    {
+        "id":9,
+        "name":"England",
+        "captain":"Rooney",
+        "race" : "white" 
+    },
+    {
+        "id":10,
+        "name":"France",
+        "captain":"Giroud",
+        "race" : "white" 
+    },
+    {
+        "id":11,
+        "name":"Germany",
+        "captain":"Muller",
+        "race" : "white" 
+    },
+    {
+        "id":12,
+        "name":"Italy",
+        "captain":"Balotelli",
+        "race" : "black" 
+    },
+    {
+        "id":13,
+        "name":"Ivory Coast",
+        "captain":"Drogba",
+        "race" : "black" 
+    },
+    {
+        "id":14,
+        "name":"Japan",
+        "captain":"Hasebe",
+        "race" : "pale" 
+    },
+    {
+        "id":15,
+        "name":"Mexico",
+        "captain":"Vela",
+        "race" : "latin" 
+    },
+    {
+        "id":16,
+        "name":"Netherlands",
+        "captain":"Robben",
+        "race" : "white" 
+    },
+    {
+        "id":17,
+        "name":"Peru",
+        "captain":"Farfan",
+        "race" : "black" 
+    },
+    {
+        "id":18,
+        "name":"Poland",
+        "captain":"Lewandowski",
+        "race" : "white" 
+    },
+    {
+        "id":19,
+        "name":"Portugal",
+        "captain":"Cristiano",
+        "race" : "white" 
+    },
+    {
+        "id":20,
+        "name":"Republic of Ireland",
+        "captain":"Walters",
+        "race" : "white" 
+    },
+    {
+        "id":21,
+        "name":"Russia",
+        "captain":"Dzyuba",
+        "race" : "pale" 
+    },
+    {
+        "id":22,
+        "name":"South Korea",
+        "captain":"Jae-Sung",
+        "race" : "pale" 
+    },
+    {
+        "id":23,
+        "name":"Spain",
+        "captain":"Iniesta",
+        "race" : "pale" 
+    },
+    {
+        "id":24,
+        "name":"Sweden",
+        "captain":"Ibrahimovic",
+        "race" : "white" 
+    },
+    {
+        "id":25,
+        "name":"Switzerland",
+        "captain":"Drmic",
+        "race" : "white" 
+    },
+    {
+        "id":26,
+        "name":"Turkey",
+        "captain":"Inan",
+        "race" : "white" 
+    },
+    {
+        "id":27,
+        "name":"Ukraine",
+        "captain":"Yarmolenko",
+        "race" : "white" 
+    },
+    {
+        "id":28,
+        "name":"USA",
+        "captain":"Altidore",
+        "race" : "black" 
+    },
+    {
+        "id":29,
+        "name":"Uruguay",
+        "captain":"Suarez",
+        "race" : "white" 
+    }
+]

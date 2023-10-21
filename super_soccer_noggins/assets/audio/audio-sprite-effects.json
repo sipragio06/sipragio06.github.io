@@ -1,0 +1,222 @@
+{
+  "resources": [
+    "audio-sprite-effects.mp3"
+  ],
+  "spritemap": {
+    "bajon": {
+      "start": 0,
+      "end": 3.7616326530612243,
+      "loop": false
+    },
+    "briefcase_close": {
+      "start": 5,
+      "end": 6.176575963718821,
+      "loop": false
+    },
+    "bumper": {
+      "start": 8,
+      "end": 9.410612244897958,
+      "loop": false
+    },
+    "bumper_impact": {
+      "start": 11,
+      "end": 11.313469387755102,
+      "loop": false
+    },
+    "buy_upgrade": {
+      "start": 13,
+      "end": 13.72,
+      "loop": false
+    },
+    "click": {
+      "start": 15,
+      "end": 15.168979591836734,
+      "loop": false
+    },
+    "crowd_goal_01": {
+      "start": 17,
+      "end": 21.050045351473923,
+      "loop": false
+    },
+    "crowd_goal_02": {
+      "start": 23,
+      "end": 27.02392290249433,
+      "loop": false
+    },
+    "crowd_goal_03": {
+      "start": 29,
+      "end": 33.023922902494334,
+      "loop": false
+    },
+    "elastic_ball": {
+      "start": 35,
+      "end": 36.41061224489796,
+      "loop": false
+    },
+    "end_match": {
+      "start": 38,
+      "end": 48.370612244897956,
+      "loop": false
+    },
+    "flamenca": {
+      "start": 50,
+      "end": 51.07208616780046,
+      "loop": false
+    },
+    "goal_1": {
+      "start": 53,
+      "end": 53.46290249433107,
+      "loop": false
+    },
+    "goal_2": {
+      "start": 55,
+      "end": 55.58931972789116,
+      "loop": false
+    },
+    "goal_3": {
+      "start": 57,
+      "end": 57.745396825396824,
+      "loop": false
+    },
+    "goal_4": {
+      "start": 59,
+      "end": 59.96165532879819,
+      "loop": false
+    },
+    "goal_5": {
+      "start": 61,
+      "end": 61.97950113378685,
+      "loop": false
+    },
+    "goal_6": {
+      "start": 63,
+      "end": 64.51510204081633,
+      "loop": false
+    },
+    "goal_7": {
+      "start": 66,
+      "end": 67.5934693877551,
+      "loop": false
+    },
+    "goal_enlarge": {
+      "start": 69,
+      "end": 69.81086167800453,
+      "loop": false
+    },
+    "goal_shrink": {
+      "start": 71,
+      "end": 71.81086167800453,
+      "loop": false
+    },
+    "heli_referee": {
+      "start": 73,
+      "end": 76.94555555555556,
+      "loop": false
+    },
+    "impacto_1": {
+      "start": 78,
+      "end": 78.07943310657596,
+      "loop": false
+    },
+    "impacto_2": {
+      "start": 80,
+      "end": 80.07943310657596,
+      "loop": false
+    },
+    "impacto_3": {
+      "start": 82,
+      "end": 82.07943310657596,
+      "loop": false
+    },
+    "impacto_4": {
+      "start": 84,
+      "end": 84.07943310657596,
+      "loop": false
+    },
+    "jetpack_on": {
+      "start": 86,
+      "end": 87.2549433106576,
+      "loop": false
+    },
+    "jump_01": {
+      "start": 89,
+      "end": 89.23616780045352,
+      "loop": false
+    },
+    "jump_02": {
+      "start": 91,
+      "end": 91.23616780045352,
+      "loop": false
+    },
+    "jump_03": {
+      "start": 93,
+      "end": 93.23616780045352,
+      "loop": false
+    },
+    "kick": {
+      "start": 95,
+      "end": 95.21004535147392,
+      "loop": false
+    },
+    "pincho_cuerno": {
+      "start": 97,
+      "end": 97.34065759637188,
+      "loop": false
+    },
+    "poor_reward": {
+      "start": 99,
+      "end": 101.97902494331066,
+      "loop": false
+    },
+    "powerups": {
+      "start": 103,
+      "end": 103.83698412698412,
+      "loop": false
+    },
+    "risa_ronaldo": {
+      "start": 105,
+      "end": 106.55884353741497,
+      "loop": false
+    },
+    "rollover": {
+      "start": 108,
+      "end": 108.15673469387755,
+      "loop": false
+    },
+    "siuuuuu_ronaldo": {
+      "start": 110,
+      "end": 111.19079365079365,
+      "loop": false
+    },
+    "smoke": {
+      "start": 113,
+      "end": 114.56,
+      "loop": false
+    },
+    "splash_big": {
+      "start": 116,
+      "end": 117.59453514739229,
+      "loop": false
+    },
+    "splash_small": {
+      "start": 119,
+      "end": 120.59453514739229,
+      "loop": false
+    },
+    "subidon": {
+      "start": 122,
+      "end": 128.6873469387755,
+      "loop": false
+    },
+    "swish": {
+      "start": 130,
+      "end": 130.21004535147392,
+      "loop": false
+    },
+    "upgrade": {
+      "start": 132,
+      "end": 134.3248979591837,
+      "loop": false
+    }
+  }
+}

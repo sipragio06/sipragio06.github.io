@@ -1,0 +1,440 @@
+[
+    {
+        "id":0,
+        "name": "Le Croissant Cup",
+        "teams": [ 18, 21, 9, 16, 12, 23, 11, 10],
+        "reserve_team": 19,
+        "matchesConfiguration": 
+                [
+                            {
+                                "id": 0,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "none",                    
+                                "rival": {"jump": 1, "rush": 1, "backtrack": 1, "kick": 1, "precision": 0.5}, 
+                                "powerUps": [[]]
+                            },
+                            {   
+                                "id": 1,
+                                "water": false,     
+                                "terrain": "moving-slices-1",          
+                                "obstacles": "none",                             
+                                "rival": {"jump": 2, "rush": 2, "backtrack": 1, "kick": 1, "precision": 0.75},
+                                "powerUps": [["power-up-small-goal-green", "power-up-small-goal-red", "power-up-small-ball"]]
+                            },
+                            {   
+                                "id": 2,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "bumpers-2",                             
+                                "rival": {"jump": 2, "rush": 2, "backtrack": 2, "kick": 2, "precision": 0.85},
+                                "powerUps": [["power-up-big-ball", "power-up-big-head-red", "power-up-big-head-green"]]
+                            },
+                            {
+                                "id": 3,
+                                "water": false,    
+                                "terrain": "flat",     
+                                "obstacles": "one-circle",                    
+                                "rival": {"jump": 2, "rush": 2, "backtrack": 2, "kick": 2, "precision": 0.85},
+                                "powerUps": [["power-up-big-goal-green", "power-up-vicking-red", "power-up-big-goal-red", "power-up-vicking-green"]]  
+                            },
+                            {   
+                                "id": 4,
+                                "water": false,    
+                                "terrain": "small-islands",   
+                                "obstacles": "none",                     
+                                "rival": {"jump": 2, "rush": 2, "backtrack": 2, "kick": 2, "precision": 0.85},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-bouncy-ball"]]
+                            },
+                            {   
+                                "id": 5,
+                                "water": false,     
+                                "terrain": "flat",     
+                                "obstacles": "one-circle",                        
+                                "rival": {"jump": 2, "rush": 2, "backtrack": 2, "kick": 3, "precision": 0.9},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red"]]
+                            },
+                            {
+                                "id": 6,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "bumpers-2",                     
+                                "rival": {"jump": 3, "rush": 2, "backtrack": 2, "kick": 3, "precision": 0.9},
+                                "powerUps": [["power-up-can-t-kick-green", "power-up-big-ball", "power-up-can-t-kick-red"]]
+                            },
+                            {   
+                                "id": 7,
+                                "water": true,     
+                                "terrain": "big-lake",  
+                                "obstacles": "one-circle",                     
+                                "rival":{"jump": 3, "rush": 2, "backtrack": 2, "kick": 3, "precision": 0.9},
+                                "powerUps": [["power-up-big-ball", "power-up-big-head-red", "power-up-bouncy-ball", "power-up-big-head-green"]]
+                            }
+            ]
+    },
+    {
+        "id":1,
+        "name":"Pinata Trophy",
+        "teams": [ 6, 29, 17, 5, 4, 0, 3, 15],
+        "reserve_team": 8,
+        "matchesConfiguration": 
+                [
+                            {
+                                "id": 8,
+                                "water": true,    
+                                "terrain": "island",              
+                                "obstacles": "none",                     
+                                "rival": {"jump": 3, "rush": 2, "backtrack": 2, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-big-ball"]]
+                            },
+                            {   
+                                "id": 9,
+                                "water": false,     
+                                "terrain": "island",          
+                                "obstacles": "bumpers-3",                    
+                                "rival": {"jump": 3, "rush": 2, "backtrack": 2, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-big-goal-green", "power-up-big-goal-red", "power-up-big-ball"]]
+                            },
+                            {   
+                                "id": 10,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "one-circle",                      
+                                "rival": {"jump": 3, "rush": 2, "backtrack": 2, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-vicking-green", "power-up-bouncy-ball", "power-up-vicking-red"]]
+                            },
+                            {
+                                "id": 11,
+                                "water": true,    
+                                "terrain": "small-islands",     
+                                "obstacles": "none",                     
+                                "rival": {"jump": 3, "rush": 3, "backtrack": 2, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-big-goal-green", "power-up-big-goal-red", "power-up-twin-red"]]
+                            },
+                            {   
+                                "id": 12,
+                                "water": false,    
+                                "terrain": "moving-slices-2",   
+                                "obstacles": "none",                     
+                                "rival": {"jump": 3, "rush": 3, "backtrack": 2, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-vicking-green", "power-up-vicking-green", "power-up-big-goal-green", "power-up-big-goal-red"]]
+                            },
+                            {   
+                                "id": 13,
+                                "water": false,     
+                                "terrain": "small-islands",     
+                                "obstacles": "one-circle",                     
+                                "rival": {"jump": 3, "rush": 3, "backtrack": 3, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-small-goal-green", "power-up-can-t-kick-green", "power-up-big-goal-green","power-up-can-t-kick-red"]]
+                            },
+                            {
+                                "id": 14,
+                                "water": true,    
+                                "terrain": "small-islands",              
+                                "obstacles": "one-circle",                      
+                                "rival": {"jump": 3, "rush": 3, "backtrack": 3, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-small-ball", "power-up-big-goal-green", "power-up-bouncy-ball"]]
+                            },
+                            {   
+                                "id": 15,
+                                "water": false,     
+                                "terrain": "moving-slices-2" ,  
+                                "obstacles": "bumpers-2",                     
+                                "rival": {"jump": 4, "rush": 3, "backtrack": 3, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-small-goal-green", "power-up-small-goal-red"]]
+                            }
+            ]
+    },
+    {
+        "id":2,
+        "name":"Hei Tiki Taka Cup",
+        "teams": [ 28, 14, 20, 22, 13, 26, 2, 1],
+        "reserve_team": 0,
+        "matchesConfiguration": 
+                [
+                            {
+                                "id": 16,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "three-moving-circles",                      
+                                "rival": {"jump": 4, "rush": 3, "backtrack": 3, "kick": 3, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red", "power-up-small-goal-green"]]
+                            },
+                            {   
+                                "id": 17,
+                                "water": true,     
+                                "terrain": "big-lake",          
+                                "obstacles": "bumpers-3",                     
+                                "rival": {"jump": 4, "rush": 3, "backtrack": 3, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-vicking-green", "power-up-vicking-green"]]
+                            },
+                            {   
+                                "id": 18,
+                                "water": false,    
+                                "terrain": "moving-slices-3",              
+                                "obstacles": "none",                    
+                                "rival": {"jump": 4, "rush": 3, "backtrack": 3, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-can-t-kick-red", "power-up-bouncy-ball", "power-up-big-goal-green", "power-up-big-goal-red"]]
+                            },
+                            {
+                                "id": 19,
+                                "water": false,    
+                                "terrain": "moving-slices-3",     
+                                "obstacles": "bumpers-3",                      
+                                "rival": {"jump": 4, "rush": 4, "backtrack": 3, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green","power-up-small-goal-green"]]
+                            },
+                            {   
+                                "id": 20,
+                                "water": false,    
+                                "terrain": "flat",   
+                                "obstacles": "bumpers-3",                    
+                                "rival": {"jump": 4, "rush": 4, "backtrack": 3, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-big-goal-green", "power-up-can-t-kick-red", "power-up-big-goal-red"]]
+                            },
+                            {   
+                                "id": 21,
+                                "water": true,     
+                                "terrain": "small-islands",     
+                                "obstacles": "none",                        
+                                "rival": {"jump": 4, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-small-ball", "power-up-bouncy-ball", "power-up-small-goal-green", "power-up-small-goal-red"]]
+                            },
+                            {
+                                "id": 22,
+                                "water": true,    
+                                "terrain": "big-lake",              
+                                "obstacles": "none",                    
+                                "rival": {"jump": 4, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-bouncy-ball", "power-up-small-goal-green", "power-up-small-goal-red"]]
+                            },
+                            {   
+                                "id": 23,
+                                "water": true,     
+                                "terrain": "moving-slices-3" ,  
+                                "obstacles": "one-circle",                       
+                                "rival": {"jump": 4, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-bouncy-ball", "power-up-twin-green", "power-up-twin-red"]]
+                            }
+            ]
+    },
+    {
+        "id":3,
+        "name":"Golden Skull Cup",
+        "teams": [ 24, 27, 25, 7, 17, 11, 10, 9],
+        "reserve_team": 26,
+        "matchesConfiguration": 
+                [
+                            {
+                                "id": 24,
+                                "water": false,    
+                                "terrain": "small-islands",              
+                                "obstacles": "bumpers-3",                      
+                                "rival": {"jump": 4, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-small-goal-green", "power-up-small-goal-red"]]
+                            },
+                            {   
+                                "id": 25,
+                                "water": true,     
+                                "terrain": "big-lake",          
+                                "obstacles": "none",                     
+                                "rival": {"jump": 5, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-bouncy-ball", "power-up-big-goal-green", "power-up-big-goal-red"]]
+                            },
+                            {   
+                                "id": 26,
+                                "water": false,    
+                                "terrain": "moving-slices-3",              
+                                "obstacles": "one-circle",                      
+                                "rival": {"jump": 5, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-twin-green", "power-up-twin-red"]]
+                            },
+                            {
+                                "id": 27,
+                                "water": false,    
+                                "terrain": "flat",     
+                                "obstacles": "bumpers-3",                      
+                                "rival": {"jump": 5, "rush": 4, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green"]]
+                            },
+                            {   
+                                "id": 28,
+                                "water": false,    
+                                "terrain": "moving-slices-3",   
+                                "obstacles": "none",                        
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red", "power-up-bouncy-ball", "power-up-big-goal-green", "power-up-big-goal-red"]]
+                            },
+                            {   
+                                "id": 29,
+                                "water": false,     
+                                "terrain": "flat",     
+                                "obstacles": "three-moving-circles",                        
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-vicking-red", "power-up-vicking-green", "power-up-bouncy-ball"]]
+                            },
+                            {
+                                "id": 30,
+                                "water": false,    
+                                "terrain": "moving-slices-3",              
+                                "obstacles": "bumpers-3",                     
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-small-ball", "power-up-bouncy-ball", "power-up-small-goal-green", "power-up-small-goal-red"]]
+                            },
+                            {   
+                                "id": 31,
+                                "water": true,     
+                                "terrain": "moving-slices-3" ,  
+                                "obstacles": "none",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 4, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-big-ball", "power-up-bouncy-ball"]]
+                            }
+            ]
+    },
+    {
+        "id":4,
+        "name":"Ruby Merman Cup",
+        "teams": [ 20, 19, 16, 28, 21, 14, 13, 29],
+        "reserve_team": 7,
+        "matchesConfiguration": 
+                [
+                            {
+                                "id": 32,
+                                "water": false,    
+                                "terrain": "small-islands",              
+                                "obstacles": "none",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-big-ball", "power-up-small-ball", "power-up-bouncy-ball"]]
+                            },
+                            {   
+                                "id": 33,
+                                "water": true,     
+                                "terrain": "big-lake",          
+                                "obstacles": "bumpers-3",                     
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-jetpack-green"]]
+                            },
+                            {   
+                                "id": 34,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "one-circle",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-small-ball", "power-up-bouncy-ball"]]
+                            },
+                            {
+                                "id": 35,
+                                "water": false,    
+                                "terrain": "small-islands",     
+                                "obstacles": "none",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-small-ball", "power-up-bouncy-ball", "power-up-small-goal-green", "power-up-small-goal-red"]]
+                            },
+                            {   
+                                "id": 36,
+                                "water": true,    
+                                "terrain": "island",   
+                                "obstacles": "none",                       
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 4, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-bouncy-ball", "power-up-big-goal-green", "power-up-big-goal-red"]]
+                            },
+                            {   
+                                "id": 37,
+                                "water": true,     
+                                "terrain": "small-islands",     
+                                "obstacles": "bumpers-3",                     
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-vicking-red", "power-up-vicking-green"]]
+                            },
+                            {
+                                "id": 38,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "one-circle",                       
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red"]]
+                            },
+                            {   
+                                "id": 39,
+                                "water": true,     
+                                "terrain": "moving-slices-3" ,  
+                                "obstacles": "one-circle",                       
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-vicking-red", "power-up-vicking-green"]]
+                            }
+            ]
+    },
+    {
+        "id":5,
+        "name":"Hellfire Trophy",
+        "teams": [ 4, 2, 27, 22, 12, 3, 9, 1],
+        "reserve_team": 26,
+        "matchesConfiguration": 
+                [
+                            {
+                                "id": 40,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "three-moving-circles",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red", "power-up-big-ball", "power-up-small-ball", "power-up-bouncy-ball"]]
+                            },
+                            {   
+                                "id": 41,
+                                "water": true,     
+                                "terrain": "big-lake",          
+                                "obstacles": "none",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-jetpack-red", "power-up-jetpack-green", "power-up-bouncy-ball"]]
+                            },
+                            {   
+                                "id": 42,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "bumpers-3",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red"]]
+                            },
+                            {
+                                "id": 43,
+                                "water": true,    
+                                "terrain": "moving-slices-3",     
+                                "obstacles": "none",                        
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-big-ball", "power-up-jetpack-red", "power-up-jetpack-green"]]
+                            },
+                            {   
+                                "id": 44,
+                                "water": true,    
+                                "terrain": "island",   
+                                "obstacles": "one-circle",                        
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red"]]
+                            },
+                            {   
+                                "id": 45,
+                                "water": false,     
+                                "terrain": "small-islands",     
+                                "obstacles": "none",                     
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-can-t-kick-red", "power-up-small-ball", "power-up-bouncy-ball"]]
+                            },
+                            {
+                                "id": 46,
+                                "water": false,    
+                                "terrain": "flat",              
+                                "obstacles": "bumpers-3",                      
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-can-t-kick-green", "power-up-small-ball"]]
+                            },
+                            {   
+                                "id": 47,
+                                "water": false,     
+                                "terrain": "moving-slices-3" ,  
+                                "obstacles": "none",                     
+                                "rival": {"jump": 5, "rush": 5, "backtrack": 5, "kick": 5, "precision": 1},
+                                "powerUps": [["power-up-twin-green", "power-up-twin-red"]]
+                            }
+            ]
+    }
+]

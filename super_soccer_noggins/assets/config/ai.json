@@ -1,0 +1,70 @@
+{
+
+        "jumpSensorLowSpeedCoordinates1": [         0, -10 , 
+                                                    -15, -70 , 
+                                                    50, -50,
+                                                    60, -40
+                                                                 ],
+        "jumpSensorHighSpeedCoordinates1": [         0, -10 , 
+                                                    -15, -90 , 
+                                                    65, -60,
+                                                    85, -30
+                                                                 ],   
+                                                                 
+                                                                 
+                                                                 
+                                                                                                                     
+        "jumpSensorLowSpeedCoordinates2": [         0, -10 , 
+                                                    -15, -75 , 
+                                                    50, -55,
+                                                    60, -45
+                                                                 ],
+        "jumpSensorHighSpeedCoordinates2": [         0, -10 , 
+                                                    -15, -95 , 
+                                                    60, -65,
+                                                    80, -45
+                                                                 ], 
+                                                                 
+                                                                 
+                                                                 
+                                                                                                                         
+        "jumpSensorLowSpeedCoordinates3": [         0, -10 , 
+                                                    -15, -80 , 
+                                                    50, -60,
+                                                    60, -45
+                                                                 ],
+        "jumpSensorHighSpeedCoordinates3": [         0, -10 , 
+                                                    -15, -100 , 
+                                                    60, -70,
+                                                    80, -45
+                                                                 ],  
+                                                                 
+                                                                 
+                                                                 
+                                                                                                                         
+                                                                 
+         "jumpSensorLowSpeedCoordinates4": [         0, -10 , 
+                                                    -15, -85 , 
+                                                    50, -65,
+                                                    60, -50
+                                                                 ],
+        "jumpSensorHighSpeedCoordinates4": [         0, -10 , 
+                                                    -15, -105 , 
+                                                    60, -75,
+                                                    80, -50
+                                                                 ],  
+                                                                 
+                                                                                                                        
+                                                                  
+        "jumpSensorLowSpeedCoordinates5": [         0, -10 , 
+                                                    -15, -105 , 
+                                                    50, -70,
+                                                    60, -55
+                                                                 ],
+        "jumpSensorHighSpeedCoordinates5": [         0, -10 , 
+                                                    -15, -120 , 
+                                                    70, -80,
+                                                    85, -55
+                                                                 ]                                                    
+                                                                                                                                                                                                                                          
+}
